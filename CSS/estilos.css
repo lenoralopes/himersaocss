@@ -6,7 +6,8 @@ body {
 }
 
 .menu{
-    background-color: #7B68EE;
+    background-color: #CD5C5C;
+    color: #FFFFFF;
 }
 
 a {
@@ -32,6 +33,5 @@ a:hover {
 }
 
 .site-subtitle {
-    color: #7B68EE
     font-style: italic;
 }

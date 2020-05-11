@@ -27,10 +27,11 @@ a:hover {
 }
 .site-subtitle,
 .site-title {
-    color: whitesmoke;
+    color: #CD5C5C;
     text-align: center;
 }
 
 .site-subtitle {
+    color: #7B68EE
     font-style: italic;
 }

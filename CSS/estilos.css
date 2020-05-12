@@ -19,6 +19,7 @@ header{
 .menu{
     background-color: #FFFFFF;
     position: fixed;
+    width: 100vw;
 }
 
 a {

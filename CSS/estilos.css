@@ -67,6 +67,7 @@ a:hover {
     font-weight: lighter;
     text-align: center;
     font-size: 2em;
+    text-shadow: #FFFFFF 2px 3px 0px;
 }
 
 .site-subtitle {

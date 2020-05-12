@@ -21,6 +21,7 @@ header{
     background-color: #FFFFFF;
     position: fixed;
     width: 100vw;
+    top: 0;
 }
 
 a {

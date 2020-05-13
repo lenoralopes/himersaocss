@@ -85,6 +85,12 @@ a:hover {
     }
 }
 
+@media (min-width: 640px){
+    .portfolio .grid{
+     grid-template-columns: 200px 200px 200px; 
+    }
+}
+
 .portfolio figure {
     text-align: center;
 }

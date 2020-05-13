@@ -74,8 +74,17 @@ a:hover {
     font-style: italic;
 }
 
+.portfolio. grid{
+    display: grid;
+    gap: 1em;
+}
+
+.portfolio figure {
+    text-align: center;
+}
+
 .img-portfolio {
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
    
 }

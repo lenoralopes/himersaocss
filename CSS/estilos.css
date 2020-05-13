@@ -91,6 +91,7 @@ a:hover {
 @media (min-width: 400px) {
   .contato,
   .portfolio {
+    color: #6495ED;
     padding: 3em 2em 2em;
     height: 100vh;
   }

@@ -100,8 +100,9 @@ a:hover {
 
 .contato h2,
 .portfolio h2 {
-  font-family: 'Press Start 2P', cursive;
-  color: whitesmoke;
+  font-family: Courier, monospace;
+  font-style: italic;
+  color: #6495ED;
   margin-bottom: 1.5em;
   font-size: 2em;
 }
@@ -172,7 +173,7 @@ a:hover {
 }
 
 .contato a {
-  color: whitesmoke;
+  color: #6495ED;
   font-size: 4em;
   transition: text-shadow 1s;
 }

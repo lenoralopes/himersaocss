@@ -168,7 +168,7 @@ a:hover {
   transform: scale(1.2) rotate(-2deg);
 }
 
-.contato .icons {
+.icons {
   gap: 1em;
   align-content: center;
   justify-content: center;

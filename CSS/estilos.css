@@ -169,9 +169,7 @@ a:hover {
 }
 
 .icons {
-  gap: 1em;
-  align-content: center;
-  justify-content: center;
+  display: flex;
   text-align: center;
 }
 

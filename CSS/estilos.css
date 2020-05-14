@@ -169,6 +169,9 @@ a:hover {
 }
 
 .contato .icons {
+  gap: 1em;
+  align-content: center;
+  justify-content: center;
   text-align: center;
 }
 

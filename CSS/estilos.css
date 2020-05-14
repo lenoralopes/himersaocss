@@ -174,8 +174,7 @@ a:hover {
 
 .contato a {
   color: #6495ED;
-  font-size: 4em;
-  transition: text-shadow 1s;
+  font-size: 2em;
 }
 
 .contato a:active,

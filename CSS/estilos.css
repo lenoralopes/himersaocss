@@ -168,14 +168,13 @@ a:hover {
   transform: scale(1.2) rotate(-2deg);
 }
 
-.icons {
-  display: flex;
-  text-align: center;
+.contato .icons {
+    text-align: center;
 }
 
 .contato a {
   color: #6495ED;
-  font-size: 6em;
+  font-size: 4em;
 }
 
 .contato a:active,

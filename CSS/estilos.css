@@ -154,13 +154,16 @@ a:hover {
 .img-portfolio {
   border-radius: 10px;
   height: 180px;
-  object-fit: cover;
   width: 180px;
 }
 
 .img-portfolio {
     height: 200px;
     width: 200px;
+    object-fit: cover;
+    object-position: left bottom;
+    transition: transform 400ms;
+    
    
 }
 

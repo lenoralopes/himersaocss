@@ -43,6 +43,16 @@ header{
     padding: 10px 20px;
 }
 
+.menu a:active,
+.menu a:hover {
+  background-color: teal;
+  color: white;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+
 a {
     text-decoration: none;
 }
